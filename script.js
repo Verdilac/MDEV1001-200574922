@@ -1,0 +1,1 @@
+console.log("Hello Iam lathindu fro Database Module On lab1")
